@@ -1,0 +1,14 @@
+int a,b,c,d;
+a=580;
+b=192;
+c=19657;
+
+if(a>=b){
+  d= a*c+10;
+  prints("Первый исход:");
+  print(d);
+}else{
+  c= a*b;
+  prints("Второй исход:");
+  print(c);
+}
